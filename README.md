@@ -1,4 +1,4 @@
-# matplotlib-challenge
+# matplotlib-challenge by Claude David
 # Matplotlib Homework - The Power of Plots
 
 ## Background
